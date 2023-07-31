@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/developer-friends/static/css/main.b630787c.css",
+    "main.js": "/developer-friends/static/js/main.2f6923c6.js",
+    "static/js/787.e55c170e.chunk.js": "/developer-friends/static/js/787.e55c170e.chunk.js",
+    "static/media/Teko-SemiBold.woff": "/developer-friends/static/media/Teko-SemiBold.a3b281a6a322dd472ecb.woff",
+    "static/media/Teko-Medium.woff": "/developer-friends/static/media/Teko-Medium.ad182c28e39635231ddd.woff",
+    "static/media/Teko-Regular.woff": "/developer-friends/static/media/Teko-Regular.78776bb31bebf2901917.woff",
+    "static/media/Teko-Bold.woff": "/developer-friends/static/media/Teko-Bold.1585cca6a5606dbb9b51.woff",
+    "static/media/Teko-Light.woff": "/developer-friends/static/media/Teko-Light.fd1bdafac7f95e37d74e.woff",
+    "index.html": "/developer-friends/index.html",
+    "main.b630787c.css.map": "/developer-friends/static/css/main.b630787c.css.map",
+    "main.2f6923c6.js.map": "/developer-friends/static/js/main.2f6923c6.js.map",
+    "787.e55c170e.chunk.js.map": "/developer-friends/static/js/787.e55c170e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b630787c.css",
+    "static/js/main.2f6923c6.js"
+  ]
+}
